@@ -1,0 +1,15 @@
+Ammeter
+ac_src
+battery
+cap
+curr_src
+dc_volt_src_1
+dc_volt_src_2
+dep_curr_src
+dep_volt
+diode
+gnd_1
+gnd_2
+inductor
+resistor
+voltmeter
